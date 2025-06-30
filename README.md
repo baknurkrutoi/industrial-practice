@@ -1,8 +1,8 @@
-# Big Data Internship Project – National Information Technologies JSC (АО "НИТ")
+# Big Data Internship Project 
 
 ## 📌 Overview
 
-This repository contains the internship project I completed at **National Information Technologies JSC (АО "NIT")**, within the **Big Data Department of SDU**.  
+This repository contains the internship project I completed , within the **Big Data Department** 
 The internship focused on applying data analysis skills in a real-world environment using modern Big Data tools and platforms.
 
 ---
